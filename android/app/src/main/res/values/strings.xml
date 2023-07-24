@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">558724972759650</string>
+    <string name="fb_login_protocol_scheme">fb558724972759650</string>
+    <string name="facebook_client_token">e24a08b393fae0bbdbad3b2c224bdf79</string>
+    <string name="app_name">Parkfinda</string>
+</resources>

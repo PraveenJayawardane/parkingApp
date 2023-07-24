@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866975419460",
+    "project_id": "parkfinda-362708",
+    "storage_bucket": "parkfinda-362708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866975419460:android:4ccb5bde9fe1b765260011",
+        "android_client_info": {
+          "package_name": "com.parkfinda.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866975419460-cf7nj8f1up7pulu7jqsejqv1g4plji2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xOhK1Ue4lPJEt8-T0aZDP8O0a0_VNBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866975419460-cf7nj8f1up7pulu7jqsejqv1g4plji2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
